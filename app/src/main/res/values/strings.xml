@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name" translatable="false">Flag Maker</string>
+    <string name="action_settings">Settings</string>
+    <string name="this_button_will_add_the_part_you_made_to_your_flag">This button will add the part you made to your flag.</string>
+    <string name="this_button_will_let_you_pick_a_color_for_the_part_of_the_flag_that_you_are_about_to_add">This button will let you pick a color for the part of the flag that you are about to add.</string>
+    <string name="use_this_button_to_save_the_flag_to_your_gallery_you_will_find_it_in_a_folder_named_flags">Use this button to save the flag to your gallery. You will find it in a folder named \'Flags\'</string>
+    <string name="use_this_button_to_remove_the_last_part_you_added">Use this button to remove the last part you added.</string>
+    <string name="this_app_allows_you_to_make_flags_by_overlaying_many_different_kinds_of_flag_parts">This app allows you to make flags by overlaying many different kinds of flag parts.</string>
+    <string name="got_it">Got it!</string>
+    <string name="how_does_it_work">How does it work?</string>
+    <string name="clear_whole_flag">Clear whole flag</string>
+    <string name="what">Help!</string>
+    <string name="undo">Undo</string>
+    <string name="save">Save</string>
+    <string name="remove_ads">Remove ads</string>
+    <string name="star">Star</string>
+    <string name="canton">Canton</string>
+    <string name="coat_of_arms">Coat of Arms</string>
+    <string name="pick_a_size">Pick a size:</string>
+    <string name="vertical_band">Vertical band</string>
+    <string name="horizontal_band">Horizontal band</string>
+    <string name="bend">Bend</string>
+    <string name="nordic_cross">Nordic Cross</string>
+    <string name="chevron">Chevron</string>
+    <string name="fill_all">Fill all</string>
+    <string name="circle">Circle</string>
+    <string name="start">Start</string>
+    <string name="center">Center</string>
+    <string name="end">End</string>
+    <string name="flag_saved">Your flag has been saved successfully!</string>
+    <string name="permission">You need to grant this app permission to do that.</string>
+    <string name="removed">You just removed all ads! Thank you.</string>
+    <string name="aint_work">That didn\'t quite work…</string>
+    <string name="tb">Earn money from your phone!</string>
+    <string name="lb">Surprise package for you!</string>
+    <string name="rhombus">Rhombus</string>
+    <string name="liked">Liked the app? Review it!</string>
+    <string name="yesrev">Review</string>
+    <string name="nothank">No thanks</string>
+    <string name="scroll">&#x1F53D; SCROLLABLE &#x1F53D;</string>
+</resources>
